@@ -4,4 +4,4 @@ Now I'm a student from [Data Scince by Skillfactory](https://skillfactory.ru/dat
 
 ## Projects to review:
 
-Project 1: Game "Think Numbers"
+Project 1: Game ["Number Guess"](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess)
