@@ -25,11 +25,11 @@ def think_number(up_border: int = 100) -> int:
         int: Возвращает загаданное число.
     """
 
-    if (type(up_border) is int) and (up_border > 10):  # Проверим на корректность ввод границы
+    if (type(up_border) is int) and (up_border >= 10):  # Проверим на корректность ввод границы
         return np.random.randint(1, up_border + 1)
 
     else:
-        raise ValueError('Invalid border type. It must be integer!')
+        raise ValueError('Invalid border type. It must be integer and  bigger then 10.')
 
 
 def number_guess(thnk_num: int, up_border: int = 100, ptr_text: bool = True) -> int:
