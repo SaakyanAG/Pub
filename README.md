@@ -9,3 +9,5 @@ Project 0: Game ["Number Guess"](https://github.com/SaakyanAG/Pub/tree/main/Proj
 Project 0_1:  (rus text)(made for skillfactory)["Bank Data Analitics"](https://github.com/SaakyanAG/Pub/tree/main/Project%200_1%20Bank%20Data%20Analitics)
 
 Project 1: (rus text)(made for skillfactory)[HH EDA](https://github.com/SaakyanAG/Pub/tree/main/Project_1%20HH%20analitics)
+
+Cerifition 1 Python: (rus text)(made for skillfactory)[Сertification 1 Python](https://github.com/SaakyanAG/Pub/blob/main/Сertification%201%20Python/)
