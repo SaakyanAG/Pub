@@ -14,3 +14,4 @@ Project_1 HH analitics/data/ExchangeRates.csv
 ProdOrderImp17320.xml
 output/
 auto-py-to-exe/
+.vscode/settings.json
