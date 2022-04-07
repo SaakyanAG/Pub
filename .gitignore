@@ -20,3 +20,4 @@ Project_3 Booking rating case/data/hotels_train.csv
 Project_3 Booking rating case/data/hotels_test.csv
 Project_3 Booking rating case/data/API_NY.GDP.MKTP.CD_DS2_en_excel_v2_3731268.xls
 Project_3 Booking rating case/data/submission.csv
+main.py
