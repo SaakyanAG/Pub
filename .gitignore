@@ -26,3 +26,5 @@ Project_4 Bank data cluster/data/bank_fin.zip
 code-review.csv
 auto-py-to-exe
 auto-py-to-exe
+__pycache__/
+tests/
