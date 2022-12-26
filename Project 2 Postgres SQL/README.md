@@ -1,19 +1,25 @@
-# Проект 0. Угадай число
+# Проект 2. Практика SQL с Postgres
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Этапы-работы-над-проектом)
-[5. Результат](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Результат)
-[6. Выводы](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Выводы)
+[1. Описание проекта](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Описание-проекта)
+
+[
+](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Описание-проекта)[2. Какой кейс решаем?](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Какой-кейс-решаем)
+
+[3. Краткая информация о данных](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Краткая-информация-о-данных)
+
+[4. Этапы работы над проектом](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Этапы-работы-над-проектом)
+
+[5. Результат](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Результат)
+
+[6. Выводы](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Выводы)
 
 ### Описание проекта
 
 Необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над  *ML* -проектом называется  *Data Understanding* , или анализ данных.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -60,7 +66,7 @@
 
 Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их). Для удобства анализа необходимо хранить запись по каждой сфере каждого работодателя в отдельной строке таблицы.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавлениhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -72,13 +78,13 @@
 * анализ работодателей;
 * предметный анализ.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавлениhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавление)
 
 ### Результаты:
 
 Результаты оформлены в виде Jupyter notebook с результатами отработки ячеек.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавлениhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавление)
 
 ### Выводы:
 
@@ -86,6 +92,6 @@
 2. Получены навыки написания структурированных запросов на SQL.
 3. Получены навыки правильного оформаления документации, написания кода и публикации его на GitHub.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_0%20Game%20Number%20Guess/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавлениhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQhttps://github.com/SaakyanAG/Pub/tree/main/Project%202%20Postgres%20SQL/README.md#Оглавление)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
