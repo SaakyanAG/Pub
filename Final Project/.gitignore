@@ -1,0 +1,5 @@
+data/xml/
+data/jobs/
+data/found_xmls.xlsx
+tmp/*.*
+__pycache__/*.*
