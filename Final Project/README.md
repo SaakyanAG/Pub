@@ -3,11 +3,22 @@
 ## Оглавление
 
 [1. Описание проекта](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Описание%20проекта)
+
+
 [2. Какой кейс решаем?](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Какой%20кейс%20решаем?)
+
+
 [3. Краткая информация о данных](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Краткая%20информация%20о%20данных)
+
+
 [4. Этапы работы над проектом](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Этапы%20работы%20над%20проектом)
+
+
 [5. Результат](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Результат)
+
+
 [6. Выводы](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Выводы)
+
 
 ### Описание проекта
 
@@ -26,7 +37,7 @@
 7. Построить сервис для предсказания цен.
 8. Оформить решение на GitHub
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
