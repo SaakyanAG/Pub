@@ -2,12 +2,12 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Описание%20проекта)
-[2. Какой кейс решаем?](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Какой%20кейс%20решаем?)
-[3. Краткая информация о данных](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Краткая%20информация%20о%20данных)
-[4. Этапы работы над проектом](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Этапы%20работы%20над%20проектом)
-[5. Результат](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Результат)
-[6. Выводы](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Выводы)
+[1. Описание проекта](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Описание%20проекта)
+[2. Какой кейс решаем?](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Какой%20кейс%20решаем?)
+[3. Краткая информация о данных](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Краткая%20информация%20о%20данных)
+[4. Этапы работы над проектом](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Этапы%20работы%20над%20проектом)
+[5. Результат](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Результат)
+[6. Выводы](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Выводы)
 
 ### Описание проекта
 
@@ -34,7 +34,7 @@
 
 Возможность предсказывать ее загрузку напрямую может сказаться на контроле за исполнением сроков, администрировании персоналом и тд.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Оглавление)
 
 ### Этапы работы над проектом
 
@@ -51,7 +51,7 @@
 11. Построение веб-сервиса для предсказания времени.
 12. Выводы.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Оглавление)
 
 ### Результаты:
 
@@ -66,13 +66,13 @@
 * Построен веб-сервис на базе FastApi для предсказания загруженности линии.
 * Очередной раз отработаны навыки оформления кода и публикации проекта на Github.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Оглавление)
 
 ### Выводы:
 
 * Построен веб-сервис для решения прикладной задачи по предсказанию загрузки линии.
 * Отработаны навыки DS в реальных условиях от сбора и консолидации данных до вывода модели в продакшен.
 
-⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Project_4%20Bank%20data%20cluster/README.md#Оглавление)
+⬆️[к оглавлению](https://github.com/SaakyanAG/Pub/tree/main/Final%20Project/README.md#Оглавление)
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
