@@ -30,3 +30,4 @@ __pycache__/
 tests/
 Project 2 Postgres SQL/secrets
 .venv/
+*.zip
