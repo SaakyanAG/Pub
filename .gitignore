@@ -31,3 +31,5 @@ tests/
 Project 2 Postgres SQL/secrets
 .venv/
 *.zip
+Project_8 Pharmacy Recommend System/data/data.csv
+Project_8 Pharmacy Recommend System/data/Product_dict.pkl
